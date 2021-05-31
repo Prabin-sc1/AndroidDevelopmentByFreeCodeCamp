@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fonts</string>
+    <string name="button1">PICK IMAGE</string>
+    <string name="checkbox">I Agree</string>
+    <string name="genderTxtView">Gender</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="reenter">Re-Enter Password</string>
+    <string name="agreement">This is our licence agreement. You can share this app anywhere that you want and use it however you want . Just remember to enjoy</string>
+    <string name="agree">I Agree</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="both">Both</string>
+    <string name="country">Country:</string>
+    <string name="nepal">Nepal</string>
+    <string name="register">Register</string>
+    <string name="pickImage">PICK IMAGE</string>
+
+    <array name="countries">
+        <item>Nepal</item>
+        <item>America</item>
+        <item>India</item>
+        <item>China</item>
+        <item>Australia</item>
+        <item>Japan</item>
+
+    </array>
+</resources>

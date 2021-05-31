@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Register</string>
+    <string name="fill" translatable="false">Please register before sign in</string>
+    <string name="firstName" translatable="false">First Name</string>
+    <string name="lastName" translatable="false">Last Name</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="form">Please register before sign up</string>
+</resources>
